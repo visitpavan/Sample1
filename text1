@@ -1,1 +1,6 @@
 first message in git hub
+git putsh
+git config --global 
+git commmit -m
+git push
+git status
