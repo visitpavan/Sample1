@@ -9,3 +9,6 @@ touch .getignore
 git add
 git add .html
 git add .
+git init
+git branch 'branch name' -> it will create new branch
+git chekcout 'branch name' -> to switch to branch
