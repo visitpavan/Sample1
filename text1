@@ -14,3 +14,4 @@ git branch 'branch name' -> it will create new branch
 git chekcout 'branch name' -> to switch to branch
 to resolve first issue, after clone, open git bash here at subfoler where you want to make changes
 adding one more row from local git repo
+adding changes from Kumar
