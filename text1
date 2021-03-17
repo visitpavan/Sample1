@@ -15,8 +15,5 @@ git chekcout 'branch name' -> to switch to branch
 to resolve first issue, after clone, open git bash here at subfoler where you want to make changes
 adding one more row from local git repo
 adding changes from Kumar
-<<<<<<< HEAD
 changes from branch pavan
-=======
 adding from git hub
->>>>>>> c26c1a6d1d05215ff8b9ce82ffb281ebe9386115
